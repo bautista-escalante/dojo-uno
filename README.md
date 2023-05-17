@@ -14,4 +14,4 @@ esta funcion recibe por parametros el tiempo y el led que queremos encender
 ![sketch_apr1b _ Arduino IDE 2 0 5-nightly-20230401 20_4_2023 21_12_23 (2)](https://user-images.githubusercontent.com/123372673/233511956-a48a6da6-699f-4e94-a824-541d72409367.png)
 
 # link del proyecto
-https://www.tinkercad.com/things/8gtw2V9CBfW-swanky-inari-gogo/editel?tenant=circuits
+[https://www.tinkercad.com/things/8gtw2V9CBfW-swanky-inari-gogo/editel?tenant=circuits](https://www.tinkercad.com/things/8MaoRmXMj6S)
